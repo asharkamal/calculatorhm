@@ -2,7 +2,7 @@
 <property name="src.java.dir" location="./src/najah/edu"/>
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
-​ <path id="NecessaryLibraries">
+ <path id="NecessaryLibraries">
 <pathelement location="./MyLibraries/junit-4.12.jar"/>
 <!--matcher- >
 <pathelement location="./MyLibraries/hamcrest-core-1.3.jar"/>
